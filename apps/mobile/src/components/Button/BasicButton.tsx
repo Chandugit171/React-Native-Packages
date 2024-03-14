@@ -1,9 +1,9 @@
-import { View, Text } from 'react-native'
+import { View, Text } from 'react-native';
 
-export  const  BasicButton=()=> {
+export const BasicButton = () => {
   return (
     <View>
-      <Text>BasicButton</Text>
+      <Text>Button</Text>
     </View>
-  )
-}
+  );
+};
